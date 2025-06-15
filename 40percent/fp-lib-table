@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/nikla/git/40percent/Keebio-Parts.pretty-master/Keebio-Parts.pretty")(options "")(descr ""))
+)
