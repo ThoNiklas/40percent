@@ -2,6 +2,9 @@ production
 40percent-backups
 *.step
 *.stl
-*.ipt
 case/OldVersions
 components
+40percent/**/*.ipt
+**/*autosave*
+OldVersions
+
